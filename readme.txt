@@ -1,0 +1,1 @@
+Solving 8-puzzle using A* search algorithm
